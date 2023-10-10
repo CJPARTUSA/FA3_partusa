@@ -1,0 +1,35 @@
+body {
+    background-image: url("pandahuggingredpanda.jpg");      /* Replace with the path to your background image */
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: center;
+    text-align: center;           /* Center the content */
+}
+
+h1 {
+    background-color: #6a5acd;    /* The bg color in HEX */
+    border: 2px dotted blue;
+    padding: 10px 15px;
+    width: 250px;
+    margin: 0 auto 20px; 
+    font-family: 'Times New Roman', curvies;     /* my font family choice */
+}
+
+p {
+    text-align: justify;
+    background-color: hsl(210, 50%, 70%); /* Background color in HSL format */
+    font-style: italic;
+    padding: 20px;
+    width: 500px;
+    border-width: 3px 5px 3px 1px; /* the border widths on each side */
+    border-style: solid; /* the border styles  */
+    border-color: black;
+    margin: 0 auto;    /* Center the content */ 
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(43, 42, 42); /* Font color in RGB format */
+    margin: 2px 5px;
+}
